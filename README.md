@@ -15,7 +15,7 @@ Skills
 * Tools: ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat), ![](https://img.shields.io/badge/-JUnit5-25A162?logo=junit5&logoColor=white&style=flat), ![](https://img.shields.io/badge/-Checkstyle-yellow?logo=checkstyle&logoColor=white&style=flat)
 * IDEs: ![](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intelliJ%20idea&logoColor=white&style=flat), ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white&style=flat), ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat), ![](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat), ![](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat), ![](https://img.shields.io/badge/-IDLE-3776AB?logo=idle&logoColor=white&style=flat)
 
-For a summary of all of my skills, please feel free to visit my ![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat) page here: [/jacobmoebius](www.linkedin.com/in/jacobmoebius/)).
+For a summary of all of my skills, please feel free to visit my ![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat) page here: [/jacobmoebius](www.linkedin.com/in/jacobmoebius/).
 
 <!--
 **jacob-moebius/jacob-moebius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
